@@ -1,0 +1,15 @@
+# General
+node_modules/
+.git/
+git-debug.log
+git-debug.*.log
+.idx/
+
+# Next.js / Build outputs
+.next/
+out/
+build/
+
+# Environment secrets
+.env
+.env*.local
